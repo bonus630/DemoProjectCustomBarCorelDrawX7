@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="br.corp.bonus630.DemoProjectCustomBarCorelDrawX7.BasicDraw"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+              >
+    <StackPanel Orientation="Horizontal">
+        <Label Content="Draw" />
+        <Button Content="Squad" Margin="2,0,0,0" Name="btn_drawSquad"/>
+        <Button Content="Line" Margin="2,0,0,0" Name="btn_drawLine"/>
+        <Button Content="Cicle" Margin="2,0,0,0" Name="btn_drawCicle"/>
+        <Button Content="Text" Margin="2,0,0,0" Name="btn_drawText"/>
+    </StackPanel>
+</UserControl>
