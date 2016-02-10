@@ -11,5 +11,7 @@
         <Button Content="Line" Margin="2,0,0,0" Name="btn_drawLine"/>
         <Button Content="Cicle" Margin="2,0,0,0" Name="btn_drawCicle"/>
         <Button Content="Text" Margin="2,0,0,0" Name="btn_drawText"/>
+        <Button Content="Arrow" Margin="2,0,0,0" Name="btn_drawArrow"/>
+        <Button Content="Area" Margin="2,0,0,0" Name="btn_curveArea"/>
     </StackPanel>
 </UserControl>
